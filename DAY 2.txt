@@ -77,7 +77,7 @@ public class day_2_sept_2_homework {
         
 //		9) Take an integer input and check if the number is divisible by 7 or not.
         int n=sc.nextInt();
-        System.out.println((n%7==0));
+        System.out.println(n%7==0);
 		
 	}
 
