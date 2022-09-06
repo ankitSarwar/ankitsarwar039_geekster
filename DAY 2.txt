@@ -73,7 +73,7 @@ public class day_2_sept_2_homework {
 		int b=sc.nextInt();
 		int c=sc.nextInt();
 		int d=sc.nextInt();
-		System.out.println(a+b+c+d >1000);
+		System.out.println(a*b*c*d >1000);
         
 //		9) Take an integer input and check if the number is divisible by 7 or not.
         int n=sc.nextInt();
